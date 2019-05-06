@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.91.153.112/app/ubi.ipa</string>
+					<string>https://raw.githubusercontent.com/ubibi2019/ubi-official-api-docs/master/ubi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://47.91.153.112/app/ubi.png</string>
+					<string>https://raw.githubusercontent.com/ubibi2019/ubi-official-api-docs/master/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://47.91.153.112/app/ubi.png</string>
+					<string>https://raw.githubusercontent.com/ubibi2019/ubi-official-api-docs/master/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
