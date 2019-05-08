@@ -1,7 +1,12 @@
 {
   "code":"1",
   "err":"0",
+<<<<<<< HEAD
   "msg":"get success",
   "version":"1.0.2",
+=======
+  "msg":"get success12",
+  "version":"1.0.3",
+>>>>>>> fac4a666f5f3da67292bd592c2236136ff8444ec
   "zipUrl":"https://raw.githubusercontent.com/ubibi2019/ubi-official-api-docs/master/app.zip"
 }
