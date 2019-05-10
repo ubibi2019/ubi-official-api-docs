@@ -3,7 +3,7 @@
     "err":"0",
     "msg":"get success ",
     "data":{
-        "VOLLA":{
+        "VOLLAR":{
             "654":[{
                 "address": "LLTn6Ww4Bq2ZkTnFKA4G716NbvStnABmPR",
                 "gmtCreate": 1553239166000,
@@ -11,7 +11,7 @@
                 "hashId": "fb57781951a244248becd1a4f4fe18b490f85994567b2f2bdc9ac857edd815ef",
                 "paymentId":"",
                 "status": 1,
-                "token": "VOLLA",
+                "token": "VOLLAR",
                 "value": 0.002
             }],
             "12":[{
@@ -21,7 +21,7 @@
                 "hashId": "fb57781951a244248becd1a4f4fe18b490f85994567b2f2bdc9ac857edd815ef",
                 "paymentId":"",
                 "status": 1,
-                "token": "VOLLA",
+                "token": "VOLLAR",
                 "value": 0.002
             }]
         }
