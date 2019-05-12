@@ -2,6 +2,11 @@
   "code":"1",
   "err":"0",
   "msg":"get success ",
+  "core_version":"1.0",
+  "core_update_link":"",
+  "core_zh_down_link_ios":"",
+  "core_zh_down_link_android":"",
+  "coinpay_plug_version":"1.0.48",
   "version":"1.0.6",
   "zipUrl":"https://raw.githubusercontent.com/ubibi2019/ubi-official-api-docs/master/app.zip"
 }
