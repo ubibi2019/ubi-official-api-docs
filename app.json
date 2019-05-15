@@ -5,6 +5,7 @@
   "version":"1.0.7",
   "core_version":"1.0",
   "core_update_link":"https://github.com/ubibi2019/core",
+  "core_en_down_link_ios":"https://github.com/ubibi2019/core",
   "core_zh_down_link_ios":"https://github.com/ubibi2019/ios",
   "core_zh_down_link_android":"https://github.com/ubibi2019/android",
   "coinpay_plug_version":"1.0.48",
