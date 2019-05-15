@@ -2,12 +2,12 @@
   "code":"1",
   "err":"0",
   "msg":"get success ",
-  "core_version":"1.1",
+  "core_version":"1.0",
   "core_update_link":"https://github.com/ubibi2019/core",
   "core_zh_down_link_ios":"https://github.com/ubibi2019/ios",
   "core_zh_down_link_android":"https://github.com/ubibi2019/android",
   "coinpay_plug_version":"1.0.48",
   "version":"1.0.7",
-  "min_core_version":"1.1",
+  "min_core_version":"1.0",
   "zipUrl":"https://raw.githubusercontent.com/ubibi2019/ubi-official-api-docs/master/app.zip"
 }
