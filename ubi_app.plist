@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://47.91.153.112/webMyApi/ubi.ipa</string>
+                   <string>https://raw.githubusercontent.com/ubibi2019/ubi-official-api-docs/master/ubi.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -34,7 +34,7 @@
                <key>bundle-identifier</key>
                <string>app.ubi.bi</string>
                <key>bundle-version</key>
-               <string>1.0</string>
+               <string>1.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
