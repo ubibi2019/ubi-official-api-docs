@@ -1,3 +1,37 @@
+Get server time
+-----------------
+
+>   **Description:**
+
+-   Get server time
+
+>   **Request URL:**
+
+-   https://api.ubi.bi/pie/api/base/secret/v1/time
+
+>   **Request Method:**
+
+-   GET
+
+>   **Parameters:**
+
+| **Name** | **Mandatory** | **Type** | **Description** |
+|------------|----------|----------|----------|
+
+>   **Response:**
+
+```
+ {
+ 	"err": 0,
+ 	"code": "02_01_0_001_01_008",
+ 	"msg": "Success",
+ 	"data": {
+ 		"serverTime": 1560419234126
+ 	},
+ 	"count": 0
+ }
+```
+
 Get market quotes for all trading pairs
 -----------------
 
