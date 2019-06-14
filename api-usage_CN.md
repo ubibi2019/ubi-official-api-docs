@@ -20,5 +20,6 @@ UBi.Bi API总则
 ```
 
 **接口调用demo：**
-- [php](./demo.php)
-- [python](./demo.py)
+- [php](./demo/demo.php)
+- [python](./demo/demo.py)
+- [java](./demo/java)
