@@ -18,3 +18,7 @@ UBi.Bi API总则
 	"count": 0 //返回数据的条数
 }
 ```
+
+调用示例：
+[php](./demo.php)
+[python](./demo.python)
