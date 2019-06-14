@@ -19,6 +19,6 @@ UBi.Bi API总则
 }
 ```
 
-调用示例：
-[php](./demo.php)
-[python](./demo.python)
+**接口调用demo：**
+- [php](./demo.php)
+- [python](./demo.python)
