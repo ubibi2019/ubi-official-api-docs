@@ -1,0 +1,23 @@
+{
+  "Web":{
+      "1.0.1":{
+          "push_time":"1560613316755",
+          "update_contant":"修复了一些bug"
+      }
+  },
+  "Desktop:{},
+  "App:
+      "1.0.3":{
+          "push_time":"1560613316755",
+          "update_contant":"待写"
+      }
+      "1.0.2":{
+          "push_time":"1560613316755",
+          "update_contant":"1、修复了一些bug<br>2、"
+      }
+      "1.0.1":{
+          "push_time":"1560613316755",
+          "update_contant":"修复了一些bug"
+      },
+  "Pad":{}
+}
