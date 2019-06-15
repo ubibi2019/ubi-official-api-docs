@@ -2,7 +2,7 @@
 	"Web": {
 		"1.0.1": {
 			"push_time": "1560613316755",
-			"zh_update_contant": "\u4fee\u590d\u4e86\u4e00\u4e9bbug",
+			"zh_update_contant": "修复了一些bug",
 			"en_update_contant": "Fixed bugs"
 		}
 	},
@@ -10,17 +10,17 @@
 	"App": {
 		"1.0.3": {
 			"push_time": "1560613316755",
-			"zh_update_contant": "\u5f85\u5199",
+			"zh_update_contant": "待写",
 			"en_update_contant": "Fixed bugs"
 		},
 		"1.0.2": {
 			"push_time": "1560613316755",
-			"zh_update_contant": "\u4fee\u590d\u4e86\u4e00\u4e9bbug",
+			"zh_update_contant": "修复了一些bug",
 			"en_update_contant": "Fixed bugs"
 		},
 		"1.0.1": {
 			"push_time": "1560613316755",
-			"zh_update_contant": "\u4fee\u590d\u4e86\u4e00\u4e9bbug",
+			"zh_update_contant": "修复了一些bug",
 			"en_update_contant": "Fixed bugs"
 		}
 	},
