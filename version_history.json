@@ -9,9 +9,9 @@
 	"Desktop": [],
 	"App": {
 		"1.0.3": {
-			"push_time": "1560613316755",
-			"zh_update_contant": "待写",
-			"en_update_contant": "Fixed bugs"
+			"push_time": "1560717181065",
+			"zh_update_contant": "1、新增 手机注册 功能；<br>2、新增 暗色 版本皮肤；<br>3、新增 安卓版本 全局悬浮功能（免费使用）；<br>4、新增 分享 功能；<br>5、修复了一些BUG，优化了一些交互体验",
+			"en_update_contant": "1. Add mobile phone registration function; <br>2, add dark version skin; <br>3, add Android version global suspension function (free use); <br>4, add sharing function;<br>5 , fixed some bugs, optimized some interactive experiences"
 		},
 		"1.0.2": {
 			"push_time": "1560613316755",
