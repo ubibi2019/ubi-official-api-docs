@@ -8,6 +8,11 @@
 	},
 	"Desktop": [],
 	"App": {
+		"1.0.4": {
+			"push_time": "1560842786693",
+			"zh_update_contant": "1、攻城狮紧急修复了一小撮八哥（BUG）<br>;2、优化了部分用户体验",
+			"en_update_contant": "1,Fixed some bugs; <br>2,Optimized some user experience"
+		},
 		"1.0.3": {
 			"push_time": "1560717181065",
 			"zh_update_contant": "1、新增 手机注册 功能；<br>2、新增 暗色 版本皮肤；<br>3、新增 安卓版本 全局悬浮功能（免费使用）；<br>4、新增 分享 功能；<br>5、修复了一些BUG，优化了一些交互体验",
