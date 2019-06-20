@@ -4,7 +4,7 @@
 			"push_time": "1561036500000",
 			"zh_update_contant": "修复了仅手机认证下不能提现的问题",
 			"en_update_contant": "Fixed a problem that could not be mentioned under mobile phone authentication only."
-		}
+		},
 		"1.0.1": {
 			"push_time": "1560613316755",
 			"zh_update_contant": "修复了一些bug",
