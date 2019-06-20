@@ -15,7 +15,7 @@
 	"App": {
 		"1.0.5": {
 			"push_time": "1561036500000",
-			"zh_update_contant": "1、修复了仅手机认证下不能提现的问题；<br>2、修复了安卓闪退问题；<br>3、浮云插件高度重新计算处理；<br>4、浮云插件高度重新计算处理；<br>5、修复了其他一些小问题",
+			"zh_update_contant": "1、修复了仅手机认证下不能提现的问题；<br>2、修复了安卓闪退问题；<br>3、浮云插件高度重新计算处理；<br>4、新增委托管理 深色样式；<br>5、修复了其他一些小问题",
 			"en_update_contant": "1.Fixed a problem that could not be mentioned under mobile phone authentication only. <br>2.Fixed other minor problems"
 		},
 		"1.0.4": {
