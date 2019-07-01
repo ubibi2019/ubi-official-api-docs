@@ -18,3 +18,9 @@ Response data format description
 	"count": 0 //Returns the number of data
 }
 ```
+
+Demo：
+# PHP	 https://github.com/ubibi2019/ubi-official-api-docs/blob/master/demo/demo.php	
+# Pthyon https://github.com/ubibi2019/ubi-official-api-docs/blob/master/demo/demo.py
+# Java	 https://github.com/ubibi2019/ubi-official-api-docs/tree/master/demo/java
+# C#	 https://github.com/ubibi2019/ubi-official-api-docs/blob/master/demo/demo.cs
