@@ -24,3 +24,4 @@ UBi.Bi API总则
 - [python](./demo/demo.py)
 - [java](./demo/java)
 - [C#](./demo/demo.cs)
+- [Ruby](./demo/demo.rb)
