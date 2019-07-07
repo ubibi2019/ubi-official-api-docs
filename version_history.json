@@ -2,7 +2,7 @@
 	"Web": {
 		"1.0.3": {
 			"push_time": "1562061874516",
-			"zh_update_contant": "1、修复Ticket与深度数据偶发性不一致、交易对数据“窜台”问题；<br>2、提币、重复提交的优化处理；<br>3、用户KYC支持中文姓名及文案优化；<br>4、弹出框样式统一及K线主题优化；<br>5、修复了其他一些小问题",
+			"zh_update_contant": "1、修复Ticket与深度数据偶发性不一致、交易对数据“窜台”问题；<br>2、提币、重复提交的优化处理；<br>3、用户KYC支持中文姓名及文案优化；<br>4、弹出框样式统一及K线主题优化；<br>5、增加了TradingView K线；<br>6、修复了其他一些小问题。",
 			"en_update_contant": "1.Fix the inconsistency between Ticket and deep data sporadic. <br>2.Fixed other minor problems"
 		},
 		"1.0.2": {
