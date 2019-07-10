@@ -11,7 +11,7 @@
   "core_uuid_down_link_ios":"https://zc.pgyer.com/LQtp",
   "core_en_down_link_android":"https://android-app-download.oss-cn-hongkong.aliyuncs.com/app-with-ubi.bi-v1.0.6_102_jiagu_sign.apk",
   "core_zh_down_link_android":"https://android-app-download.oss-cn-hongkong.aliyuncs.com/app-with-ubi.bi-v1.0.6_102_jiagu_sign.apk",
-  "coinpay_plug_version":"1.0.2",
+  "coinpay_plug_version":"1.0.3",
   "min_core_version":"1.0.1",
   "min_core_version_ios":"1.0.1",
   "min_core_version_android":"1.0.2",
